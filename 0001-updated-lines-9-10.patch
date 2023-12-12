@@ -1,0 +1,24 @@
+From c19b8d9da83d7a098cb2f668b8ad0a91bfcf9f81 Mon Sep 17 00:00:00 2001
+From: Nikolay <bzhivo@gmail.com>
+Date: Tue, 12 Dec 2023 15:59:56 +0500
+Subject: [PATCH] updated lines 9,10
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index f00c965..b3baf41 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -6,5 +6,5 @@
+ 6
+ 7
+ 8
+-9
+-10
++9 nine
++10 ten
+-- 
+2.38.1.windows.1
+
